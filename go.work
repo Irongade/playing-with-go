@@ -1,0 +1,7 @@
+go 1.21.3
+
+use ./inputOutput
+use ./calculator
+use ./files
+use ./struct
+use ./goroutines
